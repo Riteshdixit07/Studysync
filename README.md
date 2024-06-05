@@ -1,0 +1,2 @@
+# Studysync
+Dynamic &amp; Responsive 
